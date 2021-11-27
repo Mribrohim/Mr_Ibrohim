@@ -191,9 +191,12 @@ margin-top: 50px;
 footer .container .row img{
    border: 0px solid white;
     border-radius: 45%;
-width: var(--col-10);
-margin-top: 50px;
-height: 250px;
+    width: var(--col-10);
+    margin-top: 50px;
+    height: 250px;
+    widht:250px;
+    border-radius:12px;
+    padding:30px;
 
 }
 footer .container{
